@@ -9,7 +9,7 @@ This project applies NLP techniques and machine learning models to perform senti
 Mental health awareness is increasingly important. Automated sentiment analysis can help organizations, helplines, and researchers detect negative sentiment at scale, enabling earlier support and intervention for individuals in distress.
 
 ## 🗂️ Dataset
-- **Source**: Mental health text dataset (loaded from AWS S3)
+- **Source**: Mental health text dataset ([Kaggle](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health))
 - **Target**: Sentiment classification (Positive, Negative, Neutral)
 - **Features**: Raw text data from mental health discussions, posts, or responses
 
